@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="cool_weather" />
+    <version value="1" />
+    <list>
+        <maping class="com.jikeshengcan.hailiu.hiweather.db.Province" />
+        <maping class="com.jikeshengcan.hailiu.hiweather.db.City" />
+        <maping class="com.jikeshengcan.hailiu.hiweather.db.County" />
+    </list>
+</litepal>
